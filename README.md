@@ -10,3 +10,8 @@ A complete SQL-based database management system.
 ## 🛠️ Tech Stack
 - **Database:** MySQL
 - **Tool:** MySQL Workbench
+- ### 📊 Database Statistics
+- **Total Students:** 50
+- **Department:** Computer Science & Engineering (CSE)
+- **Tables:** Students, Results, Courses
+- **Relationship:** One-to-One (Results) and One-to-Many (Courses)
